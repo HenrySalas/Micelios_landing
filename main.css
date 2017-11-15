@@ -1,0 +1,35 @@
+body {
+	background-color: #000000;
+	font-family: sans-serif;
+}
+
+#header {
+	max-width: 900px;
+	height: 140px;
+	background-color: #000000;
+	margin: auto;
+	background-size: 600px 130px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url("./_img/micelios_logo1.jpg");
+}
+
+#video {
+	max-width: auto;
+	height: auto;
+	background-color: #000000;
+	margin: auto;
+	text-align: center;
+}
+
+#footer {
+	max-width: 900px;
+	height: 20px;
+	background-color: #000000;
+	margin: auto;
+}
+
+#footer p {
+	color: #d8d8d8;
+	text-align: center;
+}
