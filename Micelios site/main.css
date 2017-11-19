@@ -1,0 +1,100 @@
+body {
+	background-color: #000000;
+	font-family: sans-serif;
+}
+
+#header {
+	max-width: 900px;
+	max-height: 150px;
+	background-color: #000000;
+	margin: auto;
+	margin-bottom: 5px;
+}
+
+#headerLogo {
+	width: 600px;
+	height: 130px;
+	margin: auto;
+	background-color: #000000;
+	background-size: 600px 130px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url("./_img/micelios_logo1.jpg");
+}
+
+#headerRedes {
+	width: 140px;
+	height: 20px;
+	margin: auto;
+	background-color: #000001;
+}
+
+#headerRedes img{
+	width: 20px;
+   	height: 20px;
+   	margin: 0px 10px 0px 0px;
+}
+
+#video {
+	max-width: auto;
+	height: auto;
+	background-color: #000000;
+	margin: auto;
+	text-align: center;
+}
+
+#footer {
+	max-width: 900px;
+	height: 20px;
+	background-color: #000000;
+	margin: auto;
+}
+
+#footer p {
+	color: #d8d8d8;
+	text-align: center;
+}
+
+.redes {
+	width: 130px;
+}
+
+.redes > .fb{
+	width: 20px;
+   	height: 20px;
+   	margin: 0px 10px 0px 0px;
+   	display: inline-block;
+   	background-size: 20px;
+   	background-image: url("./_img/fb.png");
+   	background-repeat: no-repeat;
+}
+
+.redes > .tw {
+	width: 20px;
+   	height: 20px;
+   	margin: 0px 10px 0px 0px;
+   	display: inline-block;
+   	background-size: 20px;
+   	background-image: url("./_img/tw.png");
+   	background-repeat: no-repeat;
+}
+
+.redes > .insta {
+	width: 20px;
+   	height: 20px;
+   	margin: 0px 10px 0px 0px;
+   	display: inline-block;
+   	background-size: 20px;
+   	background-image: url("./_img/insta.png");
+   	background-repeat: no-repeat;
+}
+
+.redes > .youtube {
+	width: 20px;
+   	height: 20px;
+   	margin: 0px 0px 0px 0px;
+   	display: inline-block;
+   	background-size: 20px;
+   	background-image: url("./_img/yt.png");
+   	background-repeat: no-repeat;
+}
